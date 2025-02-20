@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "968860771193",
+    "project_id": "enapproj",
+    "storage_bucket": "enapproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968860771193:android:429b0523f815df310505a8",
+        "android_client_info": {
+          "package_name": "com.example.enapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlocJeoD-L7ywXZcOpBIYGRrMYYVDx1Mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
