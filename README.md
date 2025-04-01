@@ -8,7 +8,9 @@ EnApp is designed to help high school students expand their advanced vocabulary 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/516b7581-6c49-475a-94d2-5dd0f9e267de" width="150">
-  <img src="https://github.com/user-attachments/assets/516b7581-6c49-475a-94d2-5dd0f9e267de" width="150">
+  <img src="https://github.com/user-attachments/assets/e646664c-18c9-4d50-b665-1a21247fd5a5" width="150">
+    <img src="https://github.com/user-attachments/assets/e04bc7da-00c0-4341-af2a-0782a968abe9" width="150">
+  <img src="https://github.com/user-attachments/assets/e1c54ab6-a41d-4dec-8980-1dd45a11a598" width="150">
 </p>
 
 ### 📚 Cards Section  
@@ -23,10 +25,5 @@ EnApp is designed to help high school students expand their advanced vocabulary 
 - Each exercise presents a word with two possible meanings.  
 - Selecting the correct meaning moves the user to the next word.  
 - Selecting the wrong meaning keeps the word on screen and provides feedback.
-
- <p align="center">
-  <img src="https://github.com/user-attachments/assets/516b7581-6c49-475a-94d2-5dd0f9e267de" width="150">
-  <iframe width="150" src="https://www.youtube.com/embed/XXXXXXX" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
 
 
