@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:gravity="center"
+    android:background="@drawable/greybg"
+    android:orientation="vertical">
+
+    <androidx.drawerlayout.widget.DrawerLayout
+        android:id="@+id/drawer_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/appBarLayoutId"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="vertical"
+        android:background="@drawable/botr">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            >
+
+
+            <ImageButton
+                android:id="@+id/menuId"
+                android:layout_width="60dp"
+                android:layout_height="40dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/buttonbg"
+                android:src="@drawable/baseline_menu_24"
+
+                />
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="3"
+                android:background="@drawable/buttonbg"
+                android:text="homepage"
+                android:textAlignment="center"
+
+                android:textSize="24dp"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                android:layout_margin="5dp"
+                />
+
+            <ImageButton
+
+                android:background="@color/transparent"
+                android:layout_margin="5dp"
+                android:layout_width="15dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+
+                />
+
+
+            <ImageButton
+                android:id="@+id/backArrowButtonId"
+                android:layout_margin="5dp"
+                android:background="@color/transparent"
+                android:layout_width="15dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+
+                />
+
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            />
+
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layoutchoices"
+        android:layout_margin="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="8dp"
+
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout"
+        app:layout_constraintVertical_bias="0.056"
+        android:gravity="center">
+
+        <LinearLayout
+            android:id="@+id/cardsLayoutId"
+            android:layout_margin="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:background="@drawable/sectionbg"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            >
+            <TextView
+                android:layout_margin="20dp"
+                android:layout_width="180dp"
+                android:layout_height="50dp"
+                android:background="@color/transparent"
+                android:gravity="center"
+                android:textAlignment="center"
+                android:text="Cards    "
+                android:textSize="30dp"
+                android:fontFamily="monospace"
+                />
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/excLayoutId"
+            android:layout_margin="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/sectionbg"
+            android:gravity="center_vertical">
+
+
+            <TextView
+                android:layout_margin="20dp"
+                android:layout_width="180dp"
+                android:layout_height="50dp"
+                android:background="@color/transparent"
+                android:gravity="center"
+                android:textAlignment="center"
+                android:text="Exercises"
+                android:textSize="30dp"
+                android:fontFamily="monospace"
+                />
+
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@color/transparent"
+            android:orientation="horizontal"
+            android:gravity="center"
+
+            >
+
+            <ImageView
+                android:layout_width="60dp"
+                android:layout_height="100dp" />
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                />
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                />
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+
+        </LinearLayout>
+</FrameLayout>
+
+
+
+
+
+
+
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+            android:id="@+id/drawer_content"
+            android:layout_width="260dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            android:orientation="vertical"
+            android:background="@color/black">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_margin="10dp"
+            android:gravity="center_horizontal">
+
+            <LinearLayout
+                android:id="@+id/homePageId"
+                android:background="@drawable/blueass"
+                android:layout_width="200dp"
+                android:layout_height="50dp"
+                android:orientation="horizontal"
+                android:gravity="center"
+                android:layout_margin="7dp"
+                >
+                <LinearLayout
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:gravity="center"
+                    android:layout_margin="5dp"
+                    >
+
+                    <ImageView
+                        android:layout_width="40dp"
+                        android:layout_height="40dp"
+                        android:src="@drawable/baseline_home_24"/>
+                </LinearLayout>
+
+                <TextView
+
+                    android:layout_width="150dp"
+                    android:layout_height="40dp"
+                    android:text="homepage"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textSize="24dp"
+                    android:textStyle="bold"
+                    android:gravity="center"/>
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/cardspagetoId"
+                android:layout_width="200dp"
+                android:layout_height="51dp"
+                android:layout_margin="7dp"
+                android:background="@drawable/whiteass"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_margin="5dp"
+                    android:gravity="center">
+
+                    <ImageView
+                        android:layout_width="40dp"
+                        android:layout_height="40dp"
+                        android:src="@drawable/baseline_view_list_24" />
+                </LinearLayout>
+
+                <TextView
+
+                    android:layout_width="150dp"
+                    android:layout_height="40dp"
+                    android:gravity="center"
+                    android:text="cards"
+                    android:textAlignment="center"
+                    android:textColor="@color/black"
+                    android:textSize="24dp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:background="@drawable/whiteass"
+                android:id="@+id/shcooltoId"
+                android:layout_width="150dp"
+                android:layout_height="30dp"
+                android:orientation="horizontal"
+                android:gravity="center"
+                android:layout_margin="7dp"
+                >
+
+                <TextView
+
+                    android:layout_width="150dp"
+                    android:layout_height="40dp"
+                    android:text="school"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textSize="24dp"
+                    android:textStyle="bold"
+                    android:gravity="center"/>
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:background="@drawable/whiteass"
+                android:id="@+id/othertoId"
+                android:layout_width="150dp"
+                android:layout_height="30dp"
+                android:orientation="horizontal"
+                android:gravity="center"
+                android:layout_margin="7dp"
+                >
+
+                <TextView
+
+                    android:layout_width="150dp"
+                    android:layout_height="40dp"
+                    android:text="other"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textSize="24dp"
+                    android:textStyle="bold"
+                    android:gravity="center"/>
+            </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+            <LinearLayout
+                android:background="@drawable/whiteass"
+                android:id="@+id/exercisespagetoId"
+                android:layout_width="200dp"
+                android:layout_height="50dp"
+                android:orientation="horizontal"
+                android:gravity="center"
+                android:layout_margin="7dp"
+                >
+                <LinearLayout
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:gravity="center"
+                    android:layout_margin="5dp"
+                    >
+
+                    <ImageView
+                        android:layout_width="40dp"
+                        android:layout_height="40dp"
+                        android:src="@drawable/baseline_draw_24"/>
+                </LinearLayout>
+
+                <TextView
+
+                    android:layout_width="150dp"
+                    android:layout_height="40dp"
+                    android:text="exercises"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textSize="24dp"
+                    android:textStyle="bold"
+                    android:gravity="center"/>
+            </LinearLayout>
+
+
+
+
+
+        </LinearLayout>
+
+
+
+
+
+</LinearLayout>
+
+
+
+
+
+
+
+
+    </androidx.drawerlayout.widget.DrawerLayout>
+
+</LinearLayout>

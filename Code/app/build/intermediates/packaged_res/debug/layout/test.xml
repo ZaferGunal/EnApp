@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+android:id="@+id/drawer_content"
+android:layout_width="260dp"
+android:layout_height="match_parent"
+android:layout_gravity="start"
+android:orientation="vertical"
+android:background="@color/black">
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="10dp"
+    android:gravity="center_horizontal">
+
+    <LinearLayout
+        android:background="@drawable/blueass"
+        android:id="@+id/homepagetoId"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_margin="7dp"
+        >
+        <LinearLayout
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:gravity="center"
+            android:layout_margin="5dp"
+           >
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/baseline_home_24"/>
+        </LinearLayout>
+
+        <TextView
+
+            android:layout_width="150dp"
+            android:layout_height="40dp"
+            android:text="homepage"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:textSize="24dp"
+            android:textStyle="bold"
+            android:gravity="center"/>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/cardspagetoId"
+        android:layout_width="200dp"
+        android:layout_height="51dp"
+        android:layout_margin="7dp"
+        android:background="@drawable/whiteass"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_margin="5dp"
+            android:gravity="center">
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/baseline_view_list_24" />
+        </LinearLayout>
+
+        <TextView
+
+            android:layout_width="150dp"
+            android:layout_height="40dp"
+            android:gravity="center"
+            android:text="cards"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="24dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:background="@drawable/whiteass"
+
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_margin="7dp"
+        >
+
+        <TextView
+
+            android:layout_width="150dp"
+            android:layout_height="40dp"
+            android:text="school"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:textSize="24dp"
+            android:textStyle="bold"
+            android:gravity="center"/>
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:background="@drawable/whiteass"
+
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_margin="7dp"
+        >
+
+        <TextView
+
+            android:layout_width="150dp"
+            android:layout_height="40dp"
+            android:text="other"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:textSize="24dp"
+            android:textStyle="bold"
+            android:gravity="center"/>
+    </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+    <LinearLayout
+        android:background="@drawable/whiteass"
+        android:id="@+id/exercisespagetoId"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_margin="7dp"
+        >
+        <LinearLayout
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:gravity="center"
+            android:layout_margin="5dp"
+            >
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/baseline_draw_24"/>
+        </LinearLayout>
+
+        <TextView
+
+            android:layout_width="150dp"
+            android:layout_height="40dp"
+            android:text="exercises"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:textSize="24dp"
+            android:textStyle="bold"
+            android:gravity="center"/>
+    </LinearLayout>
+
+
+
+
+
+</LinearLayout>
+
+
+
+
+
+
+
+
+
+</LinearLayout>

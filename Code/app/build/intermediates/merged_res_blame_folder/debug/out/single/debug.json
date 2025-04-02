@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "com.example.enapp-merged_res-39:/drawable_baseline_draw_24.xml.flat",
+        "source": "com.example.enapp-main-41:/drawable/baseline_draw_24.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.enapp-main-41:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/layout_activity_main.xml.flat",
+        "source": "com.example.enapp-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.enapp-main-41:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/layout_dialog.xml.flat",
+        "source": "com.example.enapp-main-41:/layout/dialog.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/drawable_botr.xml.flat",
+        "source": "com.example.enapp-main-41:/drawable/botr.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.enapp-main-41:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/layout_wordbox_layout.xml.flat",
+        "source": "com.example.enapp-main-41:/layout/wordbox_layout.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/drawable_wordbox.xml.flat",
+        "source": "com.example.enapp-main-41:/drawable/wordbox.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/drawable_mred.xml.flat",
+        "source": "com.example.enapp-main-41:/drawable/mred.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/drawable_whiteass.xml.flat",
+        "source": "com.example.enapp-main-41:/drawable/whiteass.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.enapp-main-41:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/layout_activity_auth.xml.flat",
+        "source": "com.example.enapp-main-41:/layout/activity_auth.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/drawable_baseline_arrow_forward_24.xml.flat",
+        "source": "com.example.enapp-main-41:/drawable/baseline_arrow_forward_24.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/drawable_registerbuttonbg.xml.flat",
+        "source": "com.example.enapp-main-41:/drawable/registerbuttonbg.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/layout_activity_ex5.xml.flat",
+        "source": "com.example.enapp-main-41:/layout/activity_ex5.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/layout_activity_unit4.xml.flat",
+        "source": "com.example.enapp-main-41:/layout/activity_unit4.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/xml_backup_rules.xml.flat",
+        "source": "com.example.enapp-main-41:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/drawable_baseline_home_24.xml.flat",
+        "source": "com.example.enapp-main-41:/drawable/baseline_home_24.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/drawable_baseline_double_arrow_24.xml.flat",
+        "source": "com.example.enapp-main-41:/drawable/baseline_double_arrow_24.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.enapp-main-41:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/drawable_baseline_add_24.xml.flat",
+        "source": "com.example.enapp-main-41:/drawable/baseline_add_24.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/drawable_greenass.xml.flat",
+        "source": "com.example.enapp-main-41:/drawable/greenass.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/drawable_addbox.xml.flat",
+        "source": "com.example.enapp-main-41:/drawable/addbox.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/layout_activity_ex4.xml.flat",
+        "source": "com.example.enapp-main-41:/layout/activity_ex4.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/drawable_appbarr_right_bg.xml.flat",
+        "source": "com.example.enapp-main-41:/drawable/appbarr_right_bg.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/layout_test.xml.flat",
+        "source": "com.example.enapp-main-41:/layout/test.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.enapp-main-41:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/layout_activity_excercices.xml.flat",
+        "source": "com.example.enapp-main-41:/layout/activity_excercices.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/layout_activity_other.xml.flat",
+        "source": "com.example.enapp-main-41:/layout/activity_other.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.enapp-main-41:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/layout_activity_school_subject.xml.flat",
+        "source": "com.example.enapp-main-41:/layout/activity_school_subject.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.enapp-main-41:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/layout_activity_cards.xml.flat",
+        "source": "com.example.enapp-main-41:/layout/activity_cards.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/layout_activity_unit5.xml.flat",
+        "source": "com.example.enapp-main-41:/layout/activity_unit5.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/drawable_new_botr.xml.flat",
+        "source": "com.example.enapp-main-41:/drawable/new_botr.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.enapp-main-41:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.enapp-main-41:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.enapp-main-41:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/drawable_blueass.xml.flat",
+        "source": "com.example.enapp-main-41:/drawable/blueass.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/drawable_baseline_arrow_back_24.xml.flat",
+        "source": "com.example.enapp-main-41:/drawable/baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/drawable_redass.xml.flat",
+        "source": "com.example.enapp-main-41:/drawable/redass.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/drawable_buttonbg.xml.flat",
+        "source": "com.example.enapp-main-41:/drawable/buttonbg.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/drawable_baseline_menu_24.xml.flat",
+        "source": "com.example.enapp-main-41:/drawable/baseline_menu_24.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.enapp-main-41:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.enapp-main-41:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/drawable_addbutton_shape.xml.flat",
+        "source": "com.example.enapp-main-41:/drawable/addbutton_shape.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.enapp-main-41:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/layout_activity_unit6.xml.flat",
+        "source": "com.example.enapp-main-41:/layout/activity_unit6.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/drawable_sectionbg.xml.flat",
+        "source": "com.example.enapp-main-41:/drawable/sectionbg.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/drawable_appbarr_mid_bg.xml.flat",
+        "source": "com.example.enapp-main-41:/drawable/appbarr_mid_bg.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.enapp-main-41:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/layout_activity_ex6.xml.flat",
+        "source": "com.example.enapp-main-41:/layout/activity_ex6.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/layout_activity_unit3.xml.flat",
+        "source": "com.example.enapp-main-41:/layout/activity_unit3.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/drawable_appbarr_left_bg.xml.flat",
+        "source": "com.example.enapp-main-41:/drawable/appbarr_left_bg.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/drawable_baseline_view_list_24.xml.flat",
+        "source": "com.example.enapp-main-41:/drawable/baseline_view_list_24.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/drawable_littleadd.xml.flat",
+        "source": "com.example.enapp-main-41:/drawable/littleadd.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/drawable_greybg.xml.flat",
+        "source": "com.example.enapp-main-41:/drawable/greybg.xml"
+    },
+    {
+        "merged": "com.example.enapp-merged_res-39:/drawable_darkass.xml.flat",
+        "source": "com.example.enapp-main-41:/drawable/darkass.xml"
+    }
+]
